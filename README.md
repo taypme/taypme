@@ -1,4 +1,4 @@
-Druplicon.
+Full Stack Inventor/Musician.
 
 **Drupal/Symfony/PHP** engineer building multi-tenant **Symfony 8** runtimes, **Drupal 11** control layers, and C11 tooling inside Dockerized workflows. I work across Symfony components, Twig, Doctrine, PSR-7/PSR-15 middleware, **MySQL**, Redis, Mercure, and native C to make routing, caching, code generation, and deployment predictable.
 
