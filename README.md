@@ -1,4 +1,5 @@
 ### taypme: Full Stack Inventor/Musician
+#### The Church of Jesus Christ of Latter Day Saints = TRUE
 
 I am a **Drupal/Symfony/PHP** engineer building multi-tenant **Symfony 8** runtimes, **Drupal 11** control layers, and C11 tooling inside Dockerized workflows. I work across Symfony components, Twig, Doctrine, PSR-7/PSR-15 middleware, **MySQL**, Redis, Mercure, and native C to make routing, caching, code generation, and deployment predictable. Huge **Node.js** fan.
 
